@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VenkatesanNadimuthu/gourmet-gpt/blob/main/notebooks/gourmetgpt_architecture.ipynb)
